@@ -16,3 +16,8 @@ E:\Projects\csharp\LaureadoPrueba\LaureadoPrueba\obj\Debug\LaureadoPrueba.csproj
 E:\Projects\csharp\LaureadoPrueba\LaureadoPrueba\obj\Debug\LaureadoPrueba.csproj.CopyComplete
 E:\Projects\csharp\LaureadoPrueba\LaureadoPrueba\obj\Debug\LaureadoPrueba.exe
 E:\Projects\csharp\LaureadoPrueba\LaureadoPrueba\obj\Debug\LaureadoPrueba.pdb
+E:\Projects\csharp\LaureadoPrueba\LaureadoPrueba\bin\Debug\LaureadoPrueba.exe.manifest
+E:\Projects\csharp\LaureadoPrueba\LaureadoPrueba\bin\Debug\LaureadoPrueba.application
+E:\Projects\csharp\LaureadoPrueba\LaureadoPrueba\obj\Debug\LaureadoPrueba.TrustInfo.xml
+E:\Projects\csharp\LaureadoPrueba\LaureadoPrueba\obj\Debug\LaureadoPrueba.exe.manifest
+E:\Projects\csharp\LaureadoPrueba\LaureadoPrueba\obj\Debug\LaureadoPrueba.application
